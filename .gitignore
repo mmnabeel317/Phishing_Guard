@@ -1,0 +1,9 @@
+# Python virtual environment and cache  venv/  __pycache__/  *.pyc 
+# Temporary files  cls
+# Allow project-specific CSVs and pickles
+!processed_data.csv
+!invalid_rows.csv
+!test_emails.csv
+!predictions.csv
+!model.pkl
+!vectorizer.pkl 
