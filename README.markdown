@@ -1,7 +1,7 @@
 # Phishing Detection Hackathon Project
 
 ## Overview
-This project develops a machine learning-based phishing detection system to classify emails as `Safe Email` or `Phishing Email`. Built for the [Hackathon Name] on April 25, 2025, it processes email text, trains an SVM model, and predicts phishing attempts with high accuracy. The system handles multi-line emails and supports both batch and interactive predictions.
+This project develops a machine learning-based phishing detection system to classify emails as `Safe Email` or `Phishing Email`. Built for the Quantam Breach on April 25, 2025, it processes email text, trains an SVM model, and predicts phishing attempts with high accuracy. The system handles multi-line emails and supports both batch and interactive predictions.
 
 ## Features
 - **Data Preprocessing**: Cleans email text, preserving URLs and handling invalid data.
