@@ -13,7 +13,7 @@ This project develops a machine learning-based phishing detection system to clas
 - `preprocess_data.py`: Preprocesses raw email data (`test_data.csv`) into `processed_data.csv`.
 - `train_model.py`: Trains an SVM model, saving `model.pkl` and `vectorizer.pkl`.
 - `predict.py`: Predicts email types from CSV (`test_emails.csv`) or interactive input, saving to `predictions.csv`.
-- `test_data.csv`: Input dataset with `Email Text` and `Email Type`.
+- `Phishing_Emails.csv`: Input dataset with `Email Text` and `Email Type`.
 - `processed_data.csv`: Cleaned dataset with `cleaned_text` and `label`.
 - `invalid_rows.csv`: Rows with invalid `Email Type` values.
 - `test_emails.csv`: 15 multi-line test emails (8 safe, 7 phishing).
