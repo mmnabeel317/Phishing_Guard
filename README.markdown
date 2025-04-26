@@ -123,10 +123,10 @@ python app.py
 - **Web App**: Provides accurate, real-time classification with confidence scores (e.g., ~70-90% for Legitimate, ~95-99% for Phishing) and a polished UI.
 - **Artifacts**: All scripts, data, models, and the web app are included for reproducibility.
 
-##Future Prospects
--**Deep Learning Model**: We can add BERT to train the model using deep learning.
--**Multi-language support**: Adding multi language support would help avoid phishing attacks in regional areas as well.
--**Integration with Gmail/Outlook**: Implementing a web extension would automate the process of checking emails for phishing attacks.
+## Future Prospects
+- **Deep Learning Model**: We can add BERT to train the model using deep learning.
+- **Multi-language support**: Adding multi language support would help avoid phishing attacks in regional areas as well.
+- **Integration with Gmail/Outlook**: Implementing a web extension would automate the process of checking emails for phishing attacks.
 
 ## Acknowledgments
 - Built for the Quantam Breach hackathon .
