@@ -19,7 +19,7 @@ This project develops a machine learning-based phishing detection system to clas
 - `predict.py`: Predicts email types from CSV (`test_emails.csv`) or interactive input, saving to `predictions.csv`.
 - `app.py`: Flask application for the web app, serving the interactive UI.
 - `templates/index.html`: Webpage template with a modern black, white, and purple aesthetic.
-- `Phishing_Email.csv`: Input dataset with `Email Text` and `Email Type` (managed with Git LFS).
+- `Phishing_Email.csv`: Input dataset with `Email Text` and `Email Type` . Can be downloaded from "https://www.kaggle.com/code/kerlosmelad/emails-safety-predict/input"
 - `processed_data.csv`: Cleaned dataset with `cleaned_text` and `label`.
 - `invalid_rows.csv`: Rows with invalid `Email Type` values.
 - `test_emails.csv`: 15 multi-line test emails (8 safe, 7 phishing).
