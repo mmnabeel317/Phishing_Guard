@@ -126,7 +126,7 @@ python app.py
 - **Artifacts**: All scripts, data, models, and the web app are included for reproducibility.
 
 ## Acknowledgments
-- Built for the Quantam Breach hackathon with support from xAI.
+- Built for the Quantam Breach hackathon .
 - Uses `scikit-learn` for machine learning, `Flask` for the web app, and `Tailwind CSS` for styling.
 
 ## Contact
