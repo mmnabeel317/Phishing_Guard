@@ -79,11 +79,9 @@ python predict.py
 - Enter multi-line emails, type `END_EMAIL` to separate, press Enter twice to finish.
 - **Example**:
   ```
-  Subject: Invoice Overdue
-  Dear Client,
-  Your invoice #1234 is overdue.
-  Pay now to avoid penalties: http://payment-portal.com/invoice
-  Contact us if you have questions.
+  Subject: You’re a Winner!
+  Congratulations! You’ve won a $1,000 gift card. Click here to claim your prize: http://win-rewards.com
+  Hurry, offer expires in 24 hours!
   END_EMAIL
   [Enter]
   [Enter]
@@ -98,11 +96,11 @@ python app.py
 - **Example Emails**:
   - **Legitimate**:
     ```
-    Subject: Weekly Team Sync
-    Hi Team,
-    Our next sync is Monday at 9 AM.
-    Best,
-    Sarah
+    Subject: Monthly Strategy Meeting
+    Dear Team,
+    Our monthly strategy meeting is scheduled for Friday at 11 AM in Conference Room A. Please review the agenda attached and come prepared with your updates.
+    Best regards,
+    Amanda
     ```
   - **Phishing**:
     ```
