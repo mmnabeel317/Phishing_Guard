@@ -1,7 +1,7 @@
 # Phishing Detection Hackathon Project
 
 ## Overview
-This project develops a machine learning-based phishing detection system to classify emails as **Safe (Legitimate)** or **Phishing**. Built for the Quantam Breach hackathon on April 25, 2025, it processes email text, trains a Support Vector Machine (SVM) model with TF-IDF features, and predicts phishing attempts with high accuracy (~96%). The system supports both batch predictions (via CSV) and interactive predictions (via scripts and a Flask web app), handling multi-line emails and edge cases like invoice scams. The web app features a modern, responsive UI with a sleek black, white, and purple aesthetic.
+This project develops a machine learning-based phishing detection system to classify emails as **Safe (Legitimate)** or **Phishing**. Built for the Quantam Breach hackathon on April 25, 2025, it processes email text, trains a Support Vector Machine (SVM) model with TF-IDF features, and predicts phishing attempts with high accuracy (~96%). The system supports both batch predictions (via CSV) and interactive predictions (via scripts and a Flask web app), handling multi-line emails and edge cases like invoice scams.
 
 ## Features
 - **Data Preprocessing**: Cleans email text, preserves URLs, and handles invalid data for robust feature extraction.
